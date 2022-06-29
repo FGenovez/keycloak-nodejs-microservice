@@ -1,0 +1,5 @@
+npm i --save express
+npm i -g  nodemon    
+nodemon index.js   
+npm i keycloak-connect --save
+npm i express-session --save  
